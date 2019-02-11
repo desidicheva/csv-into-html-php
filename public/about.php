@@ -7,8 +7,11 @@
 
   <div id="page" class="narrow">
     <h2>About Us</h2>
-    <p>Chain Gang was started in 2005 by a group of bicycle loving friends. We wanted to create a neighborhood bike shop that could also deliver top-quality bicycles to your doorstep. Now with six locations around the city, we are able to reach even more neighborhoods.</p>
-    <p>Our mechanics inspect every bicycle from top to bottom before it leaves our shop. If you have questions, our expert staff has the knowledge and experience to advise you and to meet all of your cycling needs.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vulputate non ipsum in elementum. In facilisis eleifend sapien ac 
+      venenatis. Nullam quis sem quis tellus dignissim sagittis a ac mi. Nunc mollis condimentum augue, eu aliquam nisl congue ut. 
+      Maecenas sodales quam purus, imperdiet fringilla justo placerat et. Proin ac porttitor turpis. Suspendisse potenti.</p>
+    <p>Proin hendrerit egestas justo, ac molestie est. Curabitur a molestie nisl, nec blandit massa. Nulla consectetur mauris at nunc vehicula mattis. Vestibulum ex libero, sagittis sit amet finibus a, volutpat a nisi. 
+      Ut non ligula dui. </p>
   </div>
   
 </div>
